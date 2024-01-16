@@ -62,7 +62,7 @@ function TopNav() {
 
                 <SignInButton>
                   <Button >
-                    Anmelden -
+                    Anmelden
                   </Button>
                   </SignInButton>
    </SignedOut>
